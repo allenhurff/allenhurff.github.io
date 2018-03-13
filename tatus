@@ -1,0 +1,418 @@
+[33mcommit a7fa580d21c625b610965c4281c915bc2f699bb0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7aefdea dacc913
+Author: Allen Hurff <ahurff@datapipe.com>
+Date:   Tue Mar 13 09:20:18 2018 -0700
+
+    merge
+
+[33mcommit 7aefdeaf94fb9834dbe5ca3f0311154f98dab271[m
+Author: Allen Hurff <ahurff@datapipe.com>
+Date:   Tue Mar 13 09:19:30 2018 -0700
+
+    Roycroft Knockout Orange added
+
+[33mcommit dacc913ce1eb5eb5e3382fc21dd831266fde22c0[m
+Author: Allen Hurff <allenhurff@gmail.com>
+Date:   Tue Mar 13 08:36:16 2018 -0700
+
+    Create CNAME
+
+[33mcommit eaa131fa985a0163a7560c73efa691897a240343[m
+Author: Allen Hurff <ahurff@datapipe.com>
+Date:   Tue Mar 13 08:34:52 2018 -0700
+
+    new server for jekyll now, now
+
+[33mcommit e0d0792831df699a6957738792e711105593cd8a[m
+Merge: 792345a 7e84344
+Author: Thomas Vaeth <thomas.vaeth@gmail.com>
+Date:   Fri Feb 9 10:23:47 2018 -0800
+
+    Merge pull request #44 from ChangJoo-Park/patch-2
+    
+    Changed unsplash.it to picsum.photos.
+
+[33mcommit 7e84344fe92b16fd5d2fdeffa98063b002fdfd7e[m
+Author: ChangJoo Park <pcjpcj2@gmail.com>
+Date:   Fri Feb 9 19:31:04 2018 +0900
+
+    Change unsplash.it to picsum.photos
+
+[33mcommit 20a1cf7f5fbf428ee2ae191c9d859ac7a4779fdd[m
+Author: ChangJoo Park(박창주) <pcjpcj2@gmail.com>
+Date:   Tue Feb 6 04:50:55 2018 +0900
+
+    Change dmoe thumbnails url
+    
+    unsplash.it is change to picsum.photos.
+
+[33mcommit 792345adc49539dc2fc16ad9b92967e55698c42f[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Thu Feb 23 20:24:09 2017 -0800
+
+    Added link to Ghost repo.
+
+[33mcommit 8ee2dd0f61c0b0b315abef923d847bef7d70b4c2[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Feb 19 21:41:41 2017 -0800
+
+    Removed includes.
+
+[33mcommit a1f26a57bcd1926470cbe9c0dedf2ba3ffbd720e[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Feb 19 15:04:56 2017 -0800
+
+    Cleaned up pull request.
+
+[33mcommit 74e1cc44e3b41197ee77079f4aa046d672251ca6[m
+Merge: 3a6dbb5 4a8abc8
+Author: Thomas Vaeth <thomas.vaeth@gmail.com>
+Date:   Sun Feb 19 14:56:17 2017 -0800
+
+    Merge pull request #21 from iamsebastian/master
+    
+    Added page generator for categories.
+
+[33mcommit 4a8abc8136eb310ea7654340e5fa1dc08c940e90[m
+Author: Sebastian Blei <s.blei@banking-partner.de>
+Date:   Tue Feb 14 09:27:02 2017 +0100
+
+    Removed not anymore needed _categories directory
+
+[33mcommit c32b585ba0c293373efcaec13d1767c502e09caa[m
+Author: Sebastian Blei <s.blei@banking-partner.de>
+Date:   Tue Feb 14 09:26:41 2017 +0100
+
+    Added naming option in _config.yml for generated categories directory
+
+[33mcommit 3cb42f9589bacd9f9fb3a97699410a23b36a1aed[m
+Author: Sebastian Blei <s.blei@banking-partner.de>
+Date:   Tue Feb 14 09:16:30 2017 +0100
+
+    Add category generator plugin
+
+[33mcommit c2bb03d7202fbf390fd9e6f2551d2407ac0e764f[m
+Author: Sebastian Blei <s.blei@banking-partner.de>
+Date:   Tue Feb 14 09:16:10 2017 +0100
+
+    Add 2nd post for category generation testing
+
+[33mcommit 250f72e8e2faefa80cbf36f0811f39b47fdbda3e[m
+Author: Sebastian Blei <s.blei@banking-partner.de>
+Date:   Tue Feb 14 09:15:54 2017 +0100
+
+    Add tags to existent post
+
+[33mcommit b43d9497df97d775ede7b4960cc8c9185cbec342[m
+Author: Sebastian Blei <s.blei@banking-partner.de>
+Date:   Tue Feb 14 09:15:36 2017 +0100
+
+    Sorting categories in categories overview
+
+[33mcommit 3a6dbb58547d667c53ec0638f6029ba24f2b52d2[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Feb 12 13:11:34 2017 -0800
+
+    Bug fixes.
+
+[33mcommit cfb114996bbcd974efa6ea136c5aaa9b3ba0130f[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Feb 12 13:03:05 2017 -0800
+
+    Edited mast height on mobile.
+
+[33mcommit 942a1af3c4b521a3c8e3d19f7d3a018c8e244e79[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Feb 12 01:44:37 2017 -0800
+
+    Changed ignore array.
+
+[33mcommit d2bbb9d6f210a6ef878eacfd3117772212f21c6f[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Feb 12 01:37:49 2017 -0800
+
+    Added little Parallax library.
+
+[33mcommit c1de75ad802a93365057521e632279708d89256c[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Feb 12 01:14:27 2017 -0800
+
+    Updated styles.
+
+[33mcommit 9e465d220b87d7f3014f8eb395ca9d7ab9f685fa[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Thu Jan 19 19:10:32 2017 -0800
+
+    Refactored some JS and a merge.
+
+[33mcommit e25b8112c1e10aaeb48694831def3a446c5b82ab[m
+Merge: 4748174 1096ee7
+Author: Thomas Vaeth <thomas.vaeth@gmail.com>
+Date:   Thu Jan 19 19:08:07 2017 -0800
+
+    Merge pull request #8 from tommueller/TM_add_categories_as_links
+    
+    add category list as links on postpage
+
+[33mcommit 47481745201118e1329980d32ec6af36ea33fdd3[m
+Merge: 88a6566 90c3cfc
+Author: Thomas Vaeth <thomas.vaeth@gmail.com>
+Date:   Sat Dec 24 18:35:26 2016 -0800
+
+    Merge pull request #13 from adaRn/patch-1
+    
+    Update head.html with the latest Font Awesome
+
+[33mcommit 90c3cfc5310cd635955528d42c20c004de5782c4[m
+Author: Adam Sibik <adaRn@users.noreply.github.com>
+Date:   Sat Dec 24 02:35:52 2016 +0100
+
+    Update head.html with the latest Font Awesome
+    
+    Font Awesome 4.7.0 added tens of new icons. I think it's worth being updated here as well.
+
+[33mcommit 1096ee7d458bc70f655fe1fbafba344d5e85e0c4[m
+Author: Tom Müller <kontakt@tommueller.me>
+Date:   Sun Oct 30 15:36:50 2016 +0100
+
+    add category list as links
+
+[33mcommit 88a6566d21e4dde34ac0a5186f426481f229adbd[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Thu Oct 6 22:14:11 2016 -0700
+
+    Changed another line height.
+
+[33mcommit 89de95dab0d42328659f3d5327a89fcbe3ad9713[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Thu Oct 6 22:12:44 2016 -0700
+
+    Changed line height of headers.
+
+[33mcommit 7e5bdd279c186a9aba558ac90a3aa20086101160[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Thu Oct 6 20:42:30 2016 -0700
+
+    Added a license.
+
+[33mcommit 182238c7d7277af1b04b981b9ae7939d8763b8a8[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Fri Sep 9 21:22:41 2016 -0700
+
+    Image padding on posts.
+
+[33mcommit 317c1ef903384608dd084c8d59cbe351a125e938[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Fri Sep 9 20:13:42 2016 -0700
+
+    Fixed part of SEO.
+
+[33mcommit b565ced9faf8dfdc48a5e51b2322a1b9a4e0bd74[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Fri Sep 9 18:39:21 2016 -0700
+
+    Removed extra posts.
+
+[33mcommit 4df2f9a3e106be4c590bfcc6b3b1416062f6148f[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Fri Sep 9 18:37:29 2016 -0700
+
+    Changed config file for launch.
+
+[33mcommit e67722498cafb099845caec6b8f3569b3421fc89[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Thu Sep 8 22:28:16 2016 -0700
+
+    Removed hover animation.
+
+[33mcommit 4c7df3ca124cbc492a78e364b09357063a795a68[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Thu Sep 8 20:42:20 2016 -0700
+
+    Fixed another mobile bug.
+
+[33mcommit 9f02a337441f523f6b8e80d78b37707d3ae93471[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Thu Sep 8 07:55:14 2016 -0700
+
+    Fixed mobile bugs.
+
+[33mcommit 6d53e2ba3cb87b8689a5243200c45bef50a94dcc[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Wed Sep 7 23:30:34 2016 -0700
+
+    Included optional Google Analytics.
+
+[33mcommit 939823f2a0616c4cbdd1746251836159db00db13[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Wed Sep 7 23:10:41 2016 -0700
+
+    Included an exclude in the config.
+
+[33mcommit 77a51974f51ad7a7b6667ac194f079d8935ff855[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Wed Sep 7 22:46:34 2016 -0700
+
+    Forgot category page.
+
+[33mcommit c938891bf4d4cf21d9f07c346b97369b0b8bcc58[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Wed Sep 7 22:41:25 2016 -0700
+
+    Added screenshots.
+
+[33mcommit 43227da899d753d0c548c400e6e548f6f89ae119[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Wed Sep 7 22:09:30 2016 -0700
+
+    Updated documentation.
+
+[33mcommit 10aeadefc231d0fd410d0b91998db903c0f38233[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Wed Sep 7 20:38:12 2016 -0700
+
+    Added titles. Need mini nav still.
+
+[33mcommit 95a93ec1b66d0e84f04d358f330c25042c4eb3c1[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Wed Sep 7 19:31:35 2016 -0700
+
+    Added WOW.js.
+
+[33mcommit d2441a1625db1ed15c6dc39a67e6792bb7c8b76b[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Tue Sep 6 22:03:24 2016 -0700
+
+    Fixed a couple bugs.
+
+[33mcommit 1a5d7b0fde7154a90a2346ff7166515317c8423f[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Tue Sep 6 21:37:23 2016 -0700
+
+    Changes to footer.
+
+[33mcommit fe2b1e104bdd96b4aa27ba9a34cf0b91e9ff9bc8[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Tue Sep 6 20:54:00 2016 -0700
+
+    Removed SEO plugin. Need JSON-LD maybe.
+
+[33mcommit 744ab1d6d87b83972a03682571c605b2ce0b8741[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Tue Sep 6 19:45:08 2016 -0700
+
+    Need to replace SEO.
+
+[33mcommit 28d1474c0b2cf70447686df540631e0f588303c6[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Tue Sep 6 19:03:06 2016 -0700
+
+    Finished profile card. Added some optimized images.
+
+[33mcommit 92bbb5ff85b99f2a54a8d590ed6a9238a900dc76[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Tue Sep 6 00:19:25 2016 -0700
+
+    Started adding a profile card.
+
+[33mcommit e6ca3ae94c1725781e268104ef00732ba4e123e0[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Mon Sep 5 14:44:48 2016 -0700
+
+    DRY.
+
+[33mcommit d5e689dc9daf56057a773f3354ad647cc55180be[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Mon Sep 5 14:25:00 2016 -0700
+
+    Added archive page and switched to CDNs.
+
+[33mcommit 71b348f2ac51a2ab9939d58df7de7b82001db1e4[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Mon Sep 5 09:28:07 2016 -0700
+
+    Added some card styling. Fixed category page.
+
+[33mcommit 23b87fdbcef11eff4fba1e4217a7b553110e0994[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Mon Sep 5 02:16:27 2016 -0700
+
+    Styled category card.
+
+[33mcommit 9f6a62d0ff80f01a99e349b9220c9de943512d13[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Mon Sep 5 01:15:01 2016 -0700
+
+    Figured out categories workaround.
+
+[33mcommit 6ac3dc362287619f9876b0159780904d78ec36f8[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Sep 4 19:05:21 2016 -0700
+
+    Added tab function. Need to change categories layout.
+
+[33mcommit d719fc9109b7b0cb0b1a888799f324ae90d45408[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Sep 4 16:25:55 2016 -0700
+
+    Added a button layout.
+
+[33mcommit dbd1c006ee245a49d9b57358ccd0637140ee0180[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Sep 4 01:31:24 2016 -0700
+
+    Started single post layout.
+
+[33mcommit 5da2a0a0b60bac302ce6d32425d305b7e2c16f84[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sat Sep 3 08:22:46 2016 -0700
+
+    Restructured JS.
+
+[33mcommit 4c54e816503b4f1932338e2f12558e4b754f935c[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sat Sep 3 01:10:32 2016 -0700
+
+    Stayed jQuery free so far.
+
+[33mcommit edf8ad182031a8c90547aacf39df29b12919e063[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Tue Aug 30 21:38:57 2016 -0700
+
+    Switched fonts and renamed to Trophy.
+
+[33mcommit 95342603233e37a4caf8ae86afdfda624304c202[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Tue Aug 30 20:56:17 2016 -0700
+
+    Added more styling. Might have to ditch Sass.
+
+[33mcommit e2a13b035889c72c9b9ca897933a27b046a2bb06[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Mon Aug 29 23:34:24 2016 -0700
+
+    Added filler blog posts.
+
+[33mcommit 70935094d34d3aee6d24ab82c380afc9713b16a0[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Mon Aug 29 20:25:09 2016 -0700
+
+    Started styling to previews.
+
+[33mcommit 0cbc64bbbf1cf16db2dda82ee1d143ee9085a730[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Aug 28 21:36:26 2016 -0700
+
+    Missed some classes.
+
+[33mcommit cdb296c23721b62069c6d8bda3bf4a4f814000b1[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Aug 28 21:34:36 2016 -0700
+
+    Cleaned up all default settings.
+
+[33mcommit 90c68f95ee680cd211d1c64e18a5391e3dfa5615[m
+Author: thomasvaeth <thomas.vaeth@gmail.com>
+Date:   Sun Aug 28 21:05:49 2016 -0700
+
+    Initial commit for Jekyll theme.
