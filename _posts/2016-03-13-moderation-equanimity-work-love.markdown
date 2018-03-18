@@ -14,9 +14,9 @@ image-sm: /assets/images/tree_sm.png
 ---
 
 <blockquote>
-The one theme of Ecclesiastes is moderation.<br />
-Buddha wrote it down that the greatest word in any language is equanimity.<br />
-William Morris said that the finest blessing of life was systematic, useful work.<br />
-Saint Paul declared that the greatest thing in life was love <i class="fa fa-heart" aria-hidden="true" style="color:#c7254e"></i>.
+<image src="/assets/images/moderation.png" style="margin: 0px; padding: 0px; width: 18px; display: inline-block"></image> The one theme of Ecclesiastes is moderation.<br />
+<image src="/assets/images/rocks.png" style="margin: 0px; padding: 0px; width: 18px; display: inline-block"></image> Buddha wrote it down that the greatest word in any language is equanimity.<br />
+<i class="fa fa-building" style="color: #e56f38;" aria-hidden="true"></i> William Morris said that the finest blessing of life was systematic, useful work.<br />
+<i class="fa fa-heart" style="color: #e56f38;" aria-hidden="true"></i> Saint Paul declared that the greatest thing in life was love.
   <cite>Elbert Hubbard, Roycroft Press</cite>
 </blockquote>
