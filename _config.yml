@@ -18,6 +18,10 @@ profile_img:      https://pbs.twimg.com/profile_images/727109991425929216/Y-qg53
 profile:
 social:
   github:         https://github.com/allenhurff/allenhurff.github.io
+  twitter:        https://twitter.com/allenhurff
+  linkedin:       https://www.linkedin.com/in/ahurff/
+  youtube:        https://www.youtube.com/channel/UCuvKnCoAVTSik9fK94lbnjA
+  instagram:      https://instagram.com/allenhurff
 
 # Build settings
 exclude:          ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
