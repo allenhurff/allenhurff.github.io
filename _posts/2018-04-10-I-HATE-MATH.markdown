@@ -8,8 +8,8 @@ categories:
 description: Tortoise Beats Hare
 # image: https://picsum.photos/2000/1200?image=1003
 # image-sm: https://picsum.photos/500/300?image=1003
-image: /assets/images/bg-maths-problems.jpg
-image-sm: /assets/images/bg-maths-problems.jpg
+image: /assets/images/maths-problems.jpg
+image-sm: /assets/images/maths-problems.jpg
 ---
 
 “I HATE MATH!” How completely and obviously ignorant of me.Yes, I was one of those folks for almost four decades.
