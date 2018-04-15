@@ -13,4 +13,4 @@ image: /assets/images/bg-bugsandcecil.jpg
 image-sm: /assets/images/bg-bugsandcecil.jpg
 ---
 
-<image src="/assets/images/cecil-turtle-sketch.jpg" style="margin: 0px; padding: 0px; display: inline-block; -webkit-transform: rotate(90deg); -moz-transform: rotate(90deg); -o-transform: rotate(90deg); -ms-transform: rotate(90deg); transform: rotate(90deg);"></image>
+<image src="/assets/images/cecil-turtle-sketch.jpg" style="margin: 0px; margin-top: 35px; margin-bottom: 90px; padding: 0px; display: inline-block; -webkit-transform: rotate(90deg); -moz-transform: rotate(90deg); -o-transform: rotate(90deg); -ms-transform: rotate(90deg); transform: rotate(90deg);"></image>
