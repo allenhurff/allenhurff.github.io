@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: allenhurff.com
+Token: ad1e7354b51af0122b24ed1d2aaaf457654dbd3486c601c00f8515b3184ab12b
